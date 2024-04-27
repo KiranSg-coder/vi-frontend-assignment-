@@ -1,0 +1,13 @@
+node_modules
+
+# Ignore build artifacts:
+**/.next/**
+**/_next/**
+**/dist/**
+**/build/**
+**/coverage/**
+**/__tmp__/**
+
+# Ignore github configs
+.eslintignore
+.github
